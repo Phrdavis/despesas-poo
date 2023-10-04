@@ -1,0 +1,27 @@
+html {
+      --lumo-primary-color-50pctumo-primary-color: hsl(44, 100%, 62%);
+      --lumo-primary-color-50pct: hsla(44, 100%, 62%, 0.5);
+      --lumo-primary-color-10pct: hsla(44, 100%, 62%, 0.1);
+      --lumo-primary-text-color: hsl(48, 90%, 52%);
+
+    }
+
+.login-title{
+    font-size: 2em;
+    text-align: start;
+}
+
+.position-fixed{
+    position: fixed;
+    margin: auto;
+    bottom: 0;
+}
+
+.mb-3{
+    margin-bottom: 3em;
+}
+
+.excluir{
+    font-weight: bold;
+    font-size: 2em;
+}
