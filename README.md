@@ -1,4 +1,13 @@
-# My Todo
+# Despesas
+
+## Historia de Usuário
+
+No nosso aplicativo, você terá a comodidade de fazer login e armazenar suas informações de usuário com segurança. Após o login bem-sucedido, você terá acesso a uma página onde poderá registrar suas compras, fornecendo os seguintes detalhes: valor da compra, tipo de compra, nome do produto e data da compra.  
+
+As suas compras serão organizadas por mês, facilitando o acesso e acompanhamento ao longo do tempo. Portanto, é essencial que você esteja atento à data ao inserir informações no aplicativo. Estamos aqui para proporcionar a você uma maneira conveniente e segura de gerenciar suas compras, garantindo que você tenha sempre o controle sobre seus registros. 
+
+
+## My Todo
 
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
 It contains all the necessary configuration and some placeholder files to get you started.
